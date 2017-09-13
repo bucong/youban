@@ -1,0 +1,247 @@
+.login-com {
+  background: #eaf1f7;
+  padding: 160px 0 190px;
+}
+.login-com .login-img {
+  padding-left: 145px;
+  margin-top: 78px;
+}
+.login-com .login-form {
+  width: 422px;
+  height: 392px;
+  background: #fff;
+  padding: 20px 35px;
+  border: 1px solid #cccccc;
+  border-radius: 8px;
+}
+.login-com .login-form h2 {
+  font-size: 27px;
+  color: #666666;
+  margin-bottom: 36px;
+}
+.login-com .login-form div {
+  width: 100%;
+  border: 1px solid #cccccc;
+  border-radius: 6px;
+  margin: 20px 0;
+}
+.login-com .login-form div span {
+  height: 51px;
+  width: 51px;
+  line-height: 48px;
+  text-align: center;
+  font-size: 25px;
+  display: inline-block;
+  background: #eff0f4;
+  color: #c5c5c5;
+}
+.login-com .login-form div input {
+  border: none;
+  height: 48px;
+  font-size: 20px;
+}
+.login-com .login-form div input::-webkit-input-placeholder,
+.login-com .login-form div textarea::-webkit-input-placeholder {
+  color: #adadad;
+  font-size: 16px;
+}
+.login-com .login-form div input:-moz-placeholder,
+.login-com .login-form div textarea:-moz-placeholder {
+  color: #adadad;
+  font-size: 16px;
+}
+.login-com .login-form div input::-moz-placeholder,
+.login-com .login-form div textarea::-moz-placeholder {
+  color: #adadad;
+  font-size: 16px;
+}
+.login-com .login-form div input:-ms-input-placeholder,
+.login-com .login-form div textarea:-ms-input-placeholder {
+  color: #adadad;
+  font-size: 16px;
+}
+.login-com .login-form .login-sub {
+  width: 100%;
+  height: 52px;
+  border: none;
+  font-size: 26px;
+  margin-top: 10px;
+  color: #fff;
+  border-radius: 10px;
+  background: #ff6825;
+}
+.login-com .login-form .so-pass {
+  width: 100%;
+}
+.login-com .login-form .so-pass span {
+  float: right;
+  display: block;
+  font-size: 15px;
+  margin-top: 20px;
+  color: #666666;
+}
+.login-com .login-form .so-pass span a {
+  color: #f39c12;
+}
+.res-banner {
+  width: 100%;
+  height: 486px;
+  background: url(../images/register_2.jpg) no-repeat;
+  background-position-x: center;
+}
+.res-banner .container{
+	position: relative;
+}
+.res-banner .res-form {
+  width: 314px;
+  height: 372px;
+  border: 1px solid #bf8031;
+  position: absolute;
+  background: #fff;
+  top: 66px;
+  right: 120px;
+}
+.res-banner .res-form h3 {
+  width: 100%;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  background: #bf8031;
+  color: #fff;
+  margin: 0;
+}
+.res-banner .res-form h3 span {
+  color: #ffcc8d;
+}
+.res-banner .res-form form {
+  width: 100%;
+  padding: 10px 26px 0 28px;
+}
+.res-banner .res-form form div {
+  margin: 12px 0;
+}
+.res-banner .res-form form div input {
+  border: none;
+  border: 1px solid #6e6e6e;
+  border-radius: 3px;
+}
+.res-banner .res-form form div span {
+  color: #5e5e5e;
+  font-size: 15px;
+  margin-right: 5px;
+}
+.res-banner .res-form form div:nth-child(1) input {
+  width: 175px;
+  height: 30px;
+}
+.res-banner .res-form form div:nth-child(2) input {
+  width: 175px;
+  height: 30px;
+}
+.res-banner .res-form form div:nth-child(3) input {
+  width: 84px;
+  height: 30px;
+}
+.res-banner .res-form form div:nth-child(3) span {
+  margin-left: -14px;
+}
+.res-banner .res-form form div:nth-child(4) input {
+  width: 175px;
+  height: 30px;
+}
+.res-banner .res-form form div:nth-child(4) span {
+  margin-left: 16px;
+}
+.res-banner .res-form form div:nth-child(3) button {
+  height: 30px;
+  background: #ff6825;
+  color: #fff;
+  border: none;
+  font-size: 14px;
+  margin-left: 5px;
+  width: 78px;
+}
+.res-banner .res-form form div:nth-child(5) {
+  margin: 0 0 0 -5px;
+}
+.res-banner .res-form form div:nth-child(5) label {
+  font-weight: 100;
+}
+.res-banner .res-form form div:nth-child(5) a {
+  color: #4991fa;
+}
+.res-banner .res-form form .sub-res {
+  width: 100%;
+  height: 40px;
+  background: #ff6825;
+  color: #fff;
+  border: none;
+  font-size: 17px;
+  margin-top: 20px;
+}
+.res-form input {
+  text-indent: 10px;
+}
+.res {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.res .row {
+  padding: 30px 24px;
+  background: #f8f8f8;
+}
+.res .col-sm-2 {
+  height: 236px;
+  margin: 0 18px;
+  background: url("../images/register_02.png") no-repeat;
+}
+.res .col-sm-2 div {
+  line-height: 40px;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 40px;
+  color: #d7b448;
+}
+.res .col-sm-2 div span {
+  font-size: 18px;
+  margin-left: -8px;
+}
+.res .col-sm-2 p {
+  font-size: 18px;
+  text-align: center;
+  color: #ebc767;
+  margin-top: 43px;
+  font-weight: bold;
+}
+.res .col-sm-2 button {
+  width: 122px;
+  height: 32px;
+  border: none;
+  background: #ebc767;
+  color: #956f1e;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-top: -6px;
+  margin-left: 20px;
+}
+.regCheck {
+  display: inline-block;
+  margin: 0;
+  text-align: center;
+  height: 22px;
+  width: 66px;
+  font-size: 18px;
+  color: #5e5e5e;
+  background: url(../images/registercheck_03.png);
+  background-position-y: 3px;
+}
+.regCheck span {
+  margin: 0 !important;
+  font-size: 18px !important;
+}
+.regCheck span:nth-child(1) {
+  color: #bf8031 !important;
+}
+.regCheck span:nth-child(3) {
+  color: #ab2a2a !important;
+}
