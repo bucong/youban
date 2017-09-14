@@ -373,3 +373,10 @@ footer .copy-right a {
 footer .copy-right a:first-child {
   margin-left: 0;
 }
+@media all and (max-width: 1230px) {
+  footer,
+  header,
+  article {
+    width: 1230px;
+  }
+}
